@@ -45,6 +45,14 @@ As an aspiring Data/BI professional, I focus on the intersection of **technical 
 2. Ensure you have the `data.csv` (E-commerce Data) in the root folder.
 3. Run the Jupyter Notebook `shopee_analysis.ipynb` to see the full ETL process and visualizations.
 
----
+## 📊 Key Performance Visualizations
+
+### 1. Cross-Border Revenue Analysis
+This chart identifies the top-performing international markets, allowing for strategic resource allocation.
+![Revenue Analysis](plots/revenue_analysis.jpg)
+
+### 2. Top 10 High-Value Products
+Analysis of high-revenue StockCodes to ensure stock stability for top-performing items.
+![Top Products](plots/top_products.jpg)
 **Hüseyin** – *Google Certified Data Analyst | Specializing in E-commerce BI*
 [LinkedIn Link] | [Portfolio Link]
