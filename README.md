@@ -55,4 +55,12 @@ This chart identifies the top-performing international markets, allowing for str
 Analysis of high-revenue StockCodes to ensure stock stability for top-performing items.
 ![Top Products](plots/top_products.jpg)
 **Hüseyin** – *Google Certified Data Analyst | Specializing in E-commerce BI*
-[LinkedIn Link] | [Portfolio Link]
+[https://www.linkedin.com/in/h%C3%BCseyin-susever-384aaa1b8/] 
+
+## ⚠️ Note on Dataset
+Due to GitHub's file size limitations and best practices for data versioning, the raw dataset (`data.csv`) is **not** included in this repository. 
+
+**To run this analysis:**
+1. Download the dataset from Kaggle: [E-commerce Data - Actual transactions from UK retailer](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+2. Place the `data.csv` file into the root directory of this project.
+3. Run the `shopee_analysis.ipynb` notebook
